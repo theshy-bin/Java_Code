@@ -1,24 +1,24 @@
 public class ChangeChar{
-//×ªÒå×Ö·û
+//è½¬ä¹‰å­—ç¬¦
 	public static void main(String[] args){
 
-		System.out.println("ĞÕÃû\tĞÔ±ğ\tÄêÁä");
-		//\t Ò»¸öÖÆ±íÎ»
+		System.out.println("å§“å\tæ€§åˆ«\tå¹´é¾„");
+		//\t ä¸€ä¸ªåˆ¶è¡¨ä½
 
-		System.out.println("Èç¹û¶¬ÌìÀ´ÁË£¬\n´ºÌì»¹»áÔ¶Âğ£¿");
-		//\? Ò»¸ö»»ĞĞ·û
+		System.out.println("å¦‚æœå†¬å¤©æ¥äº†ï¼Œ\næ˜¥å¤©è¿˜ä¼šè¿œå—ï¼Ÿ");
+		//\? ä¸€ä¸ªæ¢è¡Œç¬¦
 
 		System.out.println("\\");
-		//\\ Ò»¸ö\
+		//\\ ä¸€ä¸ª\
 
 		System.out.println("\"");
-		//\" Ò»¸ö"
+		//\" ä¸€ä¸ª"
 
 		System.out.println("\'");
-		//\' Ò»¸ö'
+		//\' ä¸€ä¸ª'
 
-		System.out.println("ÏÄ´ºÇï¶¬\r´ºÏÄ");
-		//\r Ò»¸ö»Ø³µ·û£¬¹â±êÒÆ¶¯µ½µ±ÏÈĞĞµÄ×î×ó²à
+		System.out.println("å¤æ˜¥ç§‹å†¬\ræ˜¥å¤");
+		//\r ä¸€ä¸ªå›è½¦ç¬¦ï¼Œå…‰æ ‡ç§»åŠ¨åˆ°å½“å…ˆè¡Œçš„æœ€å·¦ä¾§
 
 
 
